@@ -2,7 +2,7 @@
 
 A modern, AI-powered routine planner designed to help families and kids build better habits through engaging, personalized schedules.
 
-![Schedule Buddy](images/logo.png)
+
 
 ## ✨ Features
 
@@ -21,12 +21,9 @@ Visit the live site: [Schedule Buddy](https://coadingmasters.github.io/Scheduleb
 
 ## 📱 Download
 
-<div align="center">
-  
-[![Get it on Google Play](images/playstore.png)](https://play.google.com)
-[![Get it on App Store](images/applestore.png)](https://apps.apple.com)
 
-</div>
+
+
 
 ## 🛠️ Technologies Used
 
